@@ -33,6 +33,14 @@ namespace RR_PD_v6
             int daudzums3 = Convert.ToInt32(num_daudzums3.Text);
 
             double makaa = Convert.ToDouble(txtbox_maks.Text);
+
+            Aprekini(cena1, cena2, cena3, daudzums1, daudzums2, daudzums3, makaa);
+        }
+        public void Aprekini(double cena_1, double cena_2, double cena_3, int daudzums_1, int daudzums_2, int daudzums_3, double makaa_1)
+        {
+            double Kopsumma = (cena_1 * daudzums_1) + (cena_2 * daudzums_2) + (cena_3 * daudzums_3);
+
+            txtbox_summa.Text = Kopsumma.ToString();
         }
     }
 }
