@@ -39,6 +39,14 @@ namespace RR_PD_v6
         public void Aprekini(double cena_1, double cena_2, double cena_3, int daudzums_1, int daudzums_2, int daudzums_3, double makaa_1)
         {
             double Kopsumma = (cena_1 * daudzums_1) + (cena_2 * daudzums_2) + (cena_3 * daudzums_3);
+            if (Kopsumma > makaa_1)
+            {
+                textBox2.Text = "Nepietiek naudas";
+            }
+            else if(Kopsumma < makaa_1)
+            {
+                textBox2.Text = "Pietiek naudas";
+            }
 
             txtbox_summa.Text = Kopsumma.ToString();
         }
