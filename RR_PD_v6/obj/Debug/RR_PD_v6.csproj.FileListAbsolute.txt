@@ -1,0 +1,10 @@
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\bin\Debug\RR_PD_v6.exe.config
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\bin\Debug\RR_PD_v6.exe
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\bin\Debug\RR_PD_v6.pdb
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\obj\Debug\RR_PD_v6.csprojAssemblyReference.cache
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\obj\Debug\RR_PD_v6.Form1.resources
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\obj\Debug\RR_PD_v6.Properties.Resources.resources
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\obj\Debug\RR_PD_v6.csproj.GenerateResource.cache
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\obj\Debug\RR_PD_v6.csproj.CoreCompileInputs.cache
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\obj\Debug\RR_PD_v6.exe
+Z:\Programmeshana\RR_PD_v6\RR_PD_v6\obj\Debug\RR_PD_v6.pdb
